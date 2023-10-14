@@ -17,6 +17,17 @@ This repository encapsulates my journey throughout the simulation, showcasing my
 
 Explore further to gain insights into the tasks and projects undertaken, reflecting my dedication to the field of data analytics.
 
+## Snapshots / Outcomes for the Various Tasks 📸🚀
+
+### Task 1 :
+![1](https://github.com/DevilHand420/PWC-Power-BI/assets/104151198/ffaf7e22-6c4d-4e20-ab2a-0c1c9521662c)
+
+### Task 2 :
+![2](https://github.com/DevilHand420/PWC-Power-BI/assets/104151198/eda0db3c-a24e-4fe4-a7dc-fdc979cffe75)
+
+### Task 3 :
+
+
 🔍 Feel free to delve into the specifics and reach out with any inquiries or collaborations! Let's connect and explore the data world together. 🌟
 
 ![Analytics Image](https://i.ytimg.com/vi/sgeN2NjXf7c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gOigTMA8=&rs=AOn4CLDFxiW_icQQYD1xdF8croDS-ta4rQ)
