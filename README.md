@@ -26,7 +26,11 @@ Explore further to gain insights into the tasks and projects undertaken, reflect
 ![2](https://github.com/DevilHand420/PWC-Power-BI/assets/104151198/eda0db3c-a24e-4fe4-a7dc-fdc979cffe75)
 
 ### Task 3 :
+#### KPI1 -KPI3
+![3](https://github.com/DevilHand420/PWC-Power-BI/assets/104151198/d91aa2fd-07b2-4e70-8592-aee64cb5ce08)
 
+#### KPI4 -KPI6
+![4](https://github.com/DevilHand420/PWC-Power-BI/assets/104151198/b07588aa-bdb9-4d0c-9009-0b27d57892d8)
 
 🔍 Feel free to delve into the specifics and reach out with any inquiries or collaborations! Let's connect and explore the data world together. 🌟
 
