@@ -21,4 +21,4 @@ Explore further to gain insights into the tasks and projects undertaken, reflect
 
 ![Analytics Image](https://i.ytimg.com/vi/sgeN2NjXf7c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gOigTMA8=&rs=AOn4CLDFxiW_icQQYD1xdF8croDS-ta4rQ)
 
-Let's connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dikshant-sharma-b41539232/)
+Let's connect on LinkedIn: [Dikshant LinkedIn Profile](https://www.linkedin.com/in/dikshant-sharma-b41539232/)
