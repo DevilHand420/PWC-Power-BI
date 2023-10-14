@@ -1,4 +1,4 @@
-**PwC Switzerland Power BI Job Simulation **
+** PwC Switzerland Power BI Job Simulation **
 
 🚀 Embarked on an exciting job simulation journey, intensively honing my PowerBI skills to gain a deeper understanding of client data visualization needs.
 
